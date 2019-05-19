@@ -1,4 +1,4 @@
-# JobSearchSite - Javarajob
+# JobSearchSite - JAVARAJOB
 ## Summary
 >JobSearchSite which offers jobseekers searching positions from various perspectives using diverse filters, uploading and editing their resumes and files in the web site, chatting with other jobseekers, and having their own wishlists on calendar.<br><br>
 >Companies also can upload their positions, have their own Q&A board, and give jobseekers answers and feedbacks from their HR directly.<br><br>
